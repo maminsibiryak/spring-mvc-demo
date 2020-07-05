@@ -13,6 +13,7 @@
 <body>
 <p>Hello World!</p>
 <p>Student name: ${param.studentName}</p>
-</form>
+<br><br>
+The message: ${message}
 </body>
 </html>

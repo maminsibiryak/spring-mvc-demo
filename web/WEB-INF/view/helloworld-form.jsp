@@ -14,7 +14,11 @@
 <form action="processForm" method="get">
     <input type="text" name="studentName" placeholder="what's your name?"/>
     <input type="submit"/>
-
+</form>
+<br><br>
+<form action="processFormVersionTwo" method="get">
+    <input type="text" name="studentName" placeholder="what's your name?"/>
+    <input type="submit"/>
 </form>
 </body>
 </html>
