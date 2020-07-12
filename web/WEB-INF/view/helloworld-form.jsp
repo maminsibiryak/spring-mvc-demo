@@ -15,8 +15,15 @@
     <input type="text" name="studentName" placeholder="what's your name?"/>
     <input type="submit"/>
 </form>
-<br><br>
+<br>
+<img src="${pageContext.request.contextPath}/resources/img/MRMH2RS.jpg">
+<br>
 <form action="processFormVersionTwo" method="get">
+    <input type="text" name="studentName" placeholder="what's your name?"/>
+    <input type="submit"/>
+</form>
+<br>
+<form action="processFormVersionThree" method="get">
     <input type="text" name="studentName" placeholder="what's your name?"/>
     <input type="submit"/>
 </form>
