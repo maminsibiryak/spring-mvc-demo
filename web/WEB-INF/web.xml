@@ -6,8 +6,6 @@
 
     <display-name>spring-mvc-demo</display-name>
 
-    <absolute-ordering />
-
     <!-- Spring MVC Configs -->
 
     <!-- Step 1: Configure Spring MVC Dispatcher Servlet -->
