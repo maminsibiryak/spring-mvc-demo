@@ -1,4 +1,4 @@
-package com.homework.springdemo.mvc.controller.domain
+package com.homework.springdemo.mvc.domain
 
 
 class Student {

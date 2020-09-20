@@ -1,6 +1,6 @@
-package com.homework.springdemo.mvc.controller.controller
+package com.homework.springdemo.mvc.controller
 
-import com.homework.springdemo.mvc.controller.domain.Student
+import com.homework.springdemo.mvc.domain.Student
 import org.springframework.beans.factory.annotation.Value
 import org.springframework.stereotype.Controller
 import org.springframework.ui.Model
